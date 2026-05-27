@@ -11,7 +11,7 @@ function DAR_PERMISOS() {
 function TEST_WHATSAPP() {
   const payload = {
     "messaging_product": "whatsapp",
-    "to": "541123901838", 
+    "to": "", 
     "type": "text",
     "text": { "body": "✅ ¡El token de WhatsApp funciona perfecto!" }
   };
