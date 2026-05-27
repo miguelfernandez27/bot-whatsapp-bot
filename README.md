@@ -21,12 +21,10 @@ Este proyecto fue desarrollado con el objetivo de eliminar la gestión manual de
 ## Demo Visual
 
 ### 1. Flujo de Pedidos y Navegación
-![Demo Flujo Pedidos]
-https://i.imgur.com/ic9WAMP.gif
+![Demo Flujo Pedidos](https://i.imgur.com/ic9WAMP.gif)
 
 ### 2. Flujo de Agendamiento y Cancelación
-![Demo Agenda y Cancelación]
-https://i.imgur.com/2hf5CbM.gif
+![Demo Agenda y Cancelación](https://i.imgur.com/2hf5CbM.gif)
 
 ## Deploy
 Para levantar este proyecto en tu propio entorno de Google Apps Script:
